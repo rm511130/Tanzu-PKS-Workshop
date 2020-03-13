@@ -4,7 +4,7 @@
 ------------------------------------------------------------
 
 ## Technical Pre-Requisites
-- Your Windows PC or Mac needs to allow you access to:
+- You should be able to access:
     - https://chess.cfapps.io
     - [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/17AG0H2_zJNXWIP8ZOsXjjlPCPKwhskRTg5bgkRR4maI)
 
