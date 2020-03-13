@@ -2,24 +2,9 @@
 
 # VMware Tanzu PKS Workshop - Enterprise Kubernetes 
 ------------------------------------------------------------
-## Workshop Agenda
-(1:00PM to 5:00PM on 03/19/2020)
 
-- Introduction
-     - Workshop Description and Orientation
-        - VMware Tanzu Portfolio of Products 
-- Platform Architecture 
-     - Installation Overview
-     - Operations Manager
-     - Tiles Installation
-     - Client Tools
-- Demo & Hands-on Labs
-     - Developer Experience
-     - Operator Experience
-- Next Steps
------------------------------------------------------
 ## Technical Pre-Requisites
-- Your Mac or Windows PC should be able to access:
+- Your Windows PC or Mac needs to allow you access to:
     - https://chess.cfapps.io
     - [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/17AG0H2_zJNXWIP8ZOsXjjlPCPKwhskRTg5bgkRR4maI)
 
