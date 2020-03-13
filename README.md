@@ -6,7 +6,7 @@
 ## Technical Pre-Requisites
 - You should be able to access:
 
-    - https://zoom.us/my/rmeira
+    - https://zoom.us/test
     - https://solar-system.cfapps.io
     - [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/17AG0H2_zJNXWIP8ZOsXjjlPCPKwhskRTg5bgkRR4maI)
 
