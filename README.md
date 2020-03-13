@@ -1,4 +1,6 @@
-![](./images/vmware-logo.png)
+##### https://tinyurl.com/PKS4LBRANDS
+
+![](./images//vmware-logo.png)
 
 # VMware Tanzu PKS Workshop - Enterprise Kubernetes 
 ------------------------------------------------------------
@@ -48,3 +50,4 @@ chmod 400 ~/Downloads/fuse.pem
 ssh -i ~/Downloads/fuse.pem ubuntu@user1.pks4u.com
 ```
 - Please `exit` from the Ubuntu VM if your test was successful. You are ready for the workshop.
+
