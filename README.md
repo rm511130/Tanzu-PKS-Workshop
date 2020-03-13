@@ -7,7 +7,7 @@
 - You should be able to access:
 
     - https://zoom.us/my/rmeira
-    - https://chess.cfapps.io
+    - https://solar-system.cfapps.io
     - [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/17AG0H2_zJNXWIP8ZOsXjjlPCPKwhskRTg5bgkRR4maI)
 
 ### If using a Windows PC
