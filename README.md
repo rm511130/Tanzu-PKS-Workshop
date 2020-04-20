@@ -36,3 +36,11 @@ ssh -i ~/Downloads/fuse.pem ubuntu@user1.pks4u.com
 ```
 - Please `exit` from the Ubuntu VM if your test was successful. You are ready for the workshop.
 
+
+### If using Google Chrome or Firefox as your Browser
+
+- Throughout this workshop you will be frequently asked to cut & paste commands from this github page to your terminal window.
+- Consequently, the [CodeCopy](https://github.com/zenorocha/codecopy#install) browser extension for Firefox & Google Chrome can be a valuable add-on to have. 
+- If installing add-ons does not infringing on corporate security policies, please go ahead and install CodeCopy.
+
+
