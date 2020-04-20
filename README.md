@@ -1,6 +1,6 @@
 ![](./images/vmware-logo.png)
 
-# VMware Tanzu PKS Workshop - Enterprise Kubernetes 
+# VMware TKGI Workshop - Enterprise Kubernetes 
 ------------------------------------------------------------
 
 ## Technical Pre-Requisites
