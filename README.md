@@ -10,7 +10,7 @@
     - https://solar-system.cfapps.io
     - [Workshop Google Sheet](https://docs.google.com/spreadsheets/d/17AG0H2_zJNXWIP8ZOsXjjlPCPKwhskRTg5bgkRR4maI) 
     
-      Action: go ahead and add your name to the Google Sheet to claim your UserID.
+      **Action Item**: please add your name to the Google Sheet to claim your UserID. Workshop sizing is a function of the # of attendees.
 
 ### If using a Windows PC
 - You will need to use [PuTTY](https://github.com/rm511130/Tanzu-PKS-Workshop/blob/master/PuTTY_and_SSH.md) to access a Ubuntu VM (public IP address) using a `.ppk` private-key file.
