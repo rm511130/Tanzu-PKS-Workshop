@@ -48,3 +48,9 @@ ssh -i ~/Downloads/fuse.pem ubuntu@user1.pks4u.com
 - If installing add-ons does not infringing on corporate security policies, please go ahead and install CodeCopy.
 
 
+#
+https://github.com/rm511130/Tanzu-Workshop-TKGI/blob/master/README.md#vmware-tanzu-workshop
+
+
+
+
